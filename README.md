@@ -13,7 +13,7 @@ PREREQUISITES
 * You have the right to resolve any domain name locally on you machine
 * You have the right to modify locally the way websites you visit are rendered
 * If these prereq can't be honored, avoid install this: Mark Z. may pay hundred of lawyers to sue you.
-* This is a php-based app, to be run *locally* with Apache2 / IIS+PHP / WAMP server
+* This is a damn small quick'n dirty web-based app, to be run *locally* with Apache2 / IIS / WA(MP) server
 
 
 INSTALL
