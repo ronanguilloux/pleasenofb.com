@@ -20,7 +20,7 @@ INSTALL
 -------
 
 * copy this project in your /var/www folder
-* Apache2 users : add this line to you /etc/apache2/apache2.conf :
+* Apache2 users : add this line to your /etc/apache2/apache2.conf :
 
     Include /var/www/pleasenofacebook.com/conf/apache2.conf
 
