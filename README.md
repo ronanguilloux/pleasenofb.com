@@ -9,7 +9,7 @@ saving you some of your bandwidth, concentration & time.
 PREREQUISITES
 -------------
 
-* You ahve the right to do anything you want on you machine & in your LAN
+* You have the right to do anything you want on you machine & in your LAN
 * You have the right to resolve any domain name locally on you machine
 * You have the right to modify locally the way websites you visit are rendered
 * If these prereq can't be honored, avoid install this: Mark Z. may pay hundred of lawyers to sue you.
@@ -20,7 +20,7 @@ INSTALL
 -------
 
 * copy this project in your /var/www folder
-* Apache2 users ; add this line to you /etc/apache2/apache2.conf :
+* Apache2 users : add this line to you /etc/apache2/apache2.conf :
 
     Include /var/www/pleasenofacebook.com/conf/apache2.conf
 
@@ -38,8 +38,6 @@ UNIT TESTS
 
 Just visit any website of the Internet. It surely has a "I like" button somewhere.
 Well, it *had*, because you just changed this.
-
-Option : uncomment code-coverage mentions in phpunit.xml
 
 
 ANALYTICS & ROI
