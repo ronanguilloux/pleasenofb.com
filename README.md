@@ -2,8 +2,8 @@ ABOUT
 -----
 
 A no-facebook-please web app to run locally.
-It replaces any "Connect" / "I like" / other FB button with a custom message,
-saving you some of your bandwidth, concentration & time.
+It erases any "Connect" / "I like" / other FB button from the websites you browse,
+saving you some of bandwidth, concentration & time.
 
 
 PREREQUISITES
