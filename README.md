@@ -46,6 +46,12 @@ ANALYTICS & ROI
 Some weeks after you installed this, have a look at your web server custom log file (see conf/apache2.conf).
 Stunning, isn't it ?
 
+Use `analog` for a fine-grained analysis:
+
+    sudo apt-get install analog lynx
+    analog +g/var/log/apache2/access.pleasenofb.log -O/tmp/analog.html
+    lynx [ or firefox/chromium-browser] /tmp/analog.html
+
 
 ROLLBACK
 --------
